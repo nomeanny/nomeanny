@@ -50,7 +50,7 @@ Quando não estou codando, você pode me encontrar:
 Estou sempre aberta a novas oportunidades e colaborações. Se você quiser bater um papo ou colaborar em algum projeto, pode me encontrar aqui:
 
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- ![BlueSky](https://img.shields.io/badge/-BlueSky-0057E7?logo=bluesky&logoColor=white) [BlueSky](https://bsky.app/profile/nomeannyy)
+- ![BlueSky](https://img.shields.io/badge/-BlueSky-0057E7?logo=bluesky&logoColor=white) [BlueSky](https://bsky.app/profile/annycodersjs.bsky.social))
 - ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white) [annybeatrizjpg@gmail.com](mailto:annybeatrizjpg@gmail.com)
 
 ![Code](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
