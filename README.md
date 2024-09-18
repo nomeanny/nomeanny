@@ -17,7 +17,7 @@ Sou acadêmica em Ciência da computação, tenho 20 anos e estou em constante a
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
 
 ## Ferramentas que uso no dia a dia
-[Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Chrome](https://img.shields.io/badge/chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Chrome](https://img.shields.io/badge/chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
 ![Code](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
