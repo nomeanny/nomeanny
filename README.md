@@ -8,7 +8,7 @@
 Sou acadêmica em Ciência da computação, tenho 20 anos e estou em constante aprendizado e sempre buscando novos desafios para melhorar minhas habilidades. Meu objetivo é me tornar uma desenvolvedora completa, criando soluções inovadoras e eficientes. Estou sempre aberta a networking, oportunidades e amizades!
 
 ## Onde me econtrar
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/seu-perfil) ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white) [annybeatrizjpg@gmail.com](mailto:annybeatrizjpg@gmail.com)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white.https://www.linkedin.com/in/seu-perfil) ![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white.gmailto:annybeatrizjpg@gmail.com)
 
 ## Linguagens & Frameworks
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
