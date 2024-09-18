@@ -2,8 +2,6 @@
 
 # Olá, eu sou Anny Beatriz!
 
-![Developer at work](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 ## Sobre Mim
 Sou acadêmica em Ciência da computação, tenho 20 anos e estou em constante aprendizado e sempre buscando novos desafios para melhorar minhas habilidades. Meu objetivo é me tornar uma desenvolvedora completa, criando soluções inovadoras e eficientes. Estou sempre aberta a networking, oportunidades e amizades!
 
@@ -18,8 +16,6 @@ Sou acadêmica em Ciência da computação, tenho 20 anos e estou em constante a
 
 ## Ferramentas que uso no dia a dia
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Chrome](https://img.shields.io/badge/chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-
-![Code](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ---
 
