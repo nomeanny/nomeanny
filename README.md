@@ -1,20 +1,12 @@
 # 👋 Boas vindas!
 
 ## Graduanda em Ciência da Computação, buscando conhecimento na area de redes de computadores.
----
 
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annybeatriz-silvaarujo/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:annybeatrizjpg@gmail.com)
 
----
-
-## Linguagens mais utilizadas e contribuições
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
-
----
 
 ## Linguagens & Frameworks
 
@@ -28,7 +20,6 @@
   <img src="https://img.shields.io/badge/Redes%20de%20Computadores-FF9900?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes de Computadores">
 </div>
 
----
 
 ## Ferramentas que uso no dia a dia
 
@@ -40,6 +31,3 @@
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
 </div>
 
----
-
-✨ Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo. 🚀
